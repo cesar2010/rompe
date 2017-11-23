@@ -1,2 +1,0 @@
-# rompe
-aprendiendo a programar
